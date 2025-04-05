@@ -82,7 +82,7 @@ pip install tensorflow pandas numpy matplotlib seaborn scikit-learn opencv-pytho
 - **Training**: Trained the CNN model on the training data with techniques like early stopping to prevent overfitting.
 - **Evaluation Metrics**: Assessed model performance using accuracy, precision, recall, F1-score, and confusion matrices.
 
-## 📊 Visualizations
+## 📊 Visualizations:
 
 Here are some visualizations from the project:
 
